@@ -20,6 +20,10 @@ NumPy is the fundamental package for scientific computing with Python. It contai
 2. How to insatll Numpy 
 3. pip install numpy
 
-# Defferent Types Of Array Creations and Reshaping:
+# Different Data Structure In Numpy and Pandas and Python 
+![Data](https://lh3.googleusercontent.com/-wawocp-NHcw/XM-Q4aXnm9I/AAAAAAAAFQM/Wwpo9FpOPD0NcwR_COV7ZTxcVOnUTuVHgCK8BGAs/s0/2019-05-05.png)
+# Different Types Of Array Creations and Reshaping:
 
 ![Creating Array and Reshaping](https://lh3.googleusercontent.com/-SJhEezoohSM/XMxAqsk20EI/AAAAAAAAba4/zZEaQplDLLUMG0VIkhDToITo9EuIXtY_ACK8BGAs/s0/Re.PNG)
+
+# 
